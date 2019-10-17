@@ -1,4 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-
-RewriteRule ^300$ http://google.be/etes [R=302,NC,NE,L]
