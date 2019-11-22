@@ -1,2 +1,1 @@
-# htaccess
-A place where htacces files go
+# A repository to house htaccess files
