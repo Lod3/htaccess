@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule e4583750-d7b3-448e-a23c-726471ce7137$ https://www.mleuven.be/nl/ons-verhaal [R=302,NC,NE,L]
+RewriteRule 3a67d9fd-fa6b-4578-9d7e-daef09c8ef0d$ https://www.mleuven.be/nl/onze-geschiedenis [R=302,NC,NE,L]
+RewriteRule a7fd9fc0-b113-455c-b4dd-b67e190fa42a$ https://www.mleuven.be/nl/onderzoek [R=302,NC,NE,L]
